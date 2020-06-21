@@ -5,3 +5,4 @@ This is forth change
 This is fifth change
 This is sixth change
 This change in GitHub
+This change is from feature1 in GitHub
